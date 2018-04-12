@@ -3,7 +3,8 @@
 ## Introduction
 A model for image caption which reference https://arxiv.org/abs/1609.06647
 
-## Using
+## Usage
+To usage this network ,you need to download VGG19 NPY .
 For training run `python main.py --mode=='train'`
 For testing run  `python main.py --mode=='test'`
 
